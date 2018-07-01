@@ -1,0 +1,21 @@
+/* styles navigatiebalk boven*/
+ul{
+	list-style-type: none; /* geen bullets in list items */
+}
+
+li{
+	float: left;
+}
+li a{
+	display: block;
+	text-align: center;
+	padding: 16px;
+	text-decoration: none;
+}
+li a:hover{
+	text-decoration: underline;
+}
+
+img{
+	
+}
